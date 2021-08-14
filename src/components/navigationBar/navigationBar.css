@@ -1,0 +1,15 @@
+.form-control:focus {
+  border-color: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.text-sm {
+  font-size: 0.75rem !important;
+  font-weight: 650 !important;
+  color: darkgrey !important;
+}
+
+.text-sm:hover {
+  color: whitesmoke !important;
+}
